@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985125110814",
+    "project_id": "optik-tanima",
+    "storage_bucket": "optik-tanima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985125110814:android:2159edd518f00fc0ba1a0f",
+        "android_client_info": {
+          "package_name": "com.example.veritabani.optik_tanima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985125110814-d6v1ll8g4rg3lkrv32e8bhjm166da3t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMv3Vzd9vU57zSFoZyN9hF6muYRtu3RjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985125110814-d6v1ll8g4rg3lkrv32e8bhjm166da3t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

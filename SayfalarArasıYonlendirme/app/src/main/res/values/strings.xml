@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_1_ekran">1. EKRAN</string>
+    <string name="_2_sayfaya_g_t">2. SAYFAYA GİT</string>
+    <string name="_2_ekran">2.EKRAN</string>
+    <string name="_1_sayfaya_g_t">1.SAYFAYA GİT</string>
+    <string name="uygulamayi_kapat">UYGULAMAYI KAPAT</string>
+</resources>
